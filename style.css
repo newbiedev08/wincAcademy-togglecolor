@@ -1,0 +1,11 @@
+body{
+    background-color: blue;
+    transition: background-color;
+}
+.toggle {
+    background-color: blue;
+}
+
+.toggleButton {
+    background-color: red;
+}
